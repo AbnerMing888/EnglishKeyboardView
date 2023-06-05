@@ -1,0 +1,3 @@
+rootProject.name = "EnglishKeyboardView"
+include ':app'
+include ':board'
